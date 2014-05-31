@@ -1,0 +1,28 @@
+C:\Users\suneo\Documents\Visual Studio 2010\Projects\FullScreen\FullScreen\bin\Release\FullScreen.exe
+C:\Users\suneo\Documents\Visual Studio 2010\Projects\FullScreen\FullScreen\bin\Release\FullScreen.pdb
+C:\Users\suneo\Documents\Visual Studio 2010\Projects\FullScreen\FullScreen\bin\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\suneo\Documents\Visual Studio 2010\Projects\FullScreen\FullScreen\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\suneo\Documents\Visual Studio 2010\Projects\FullScreen\FullScreen\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\suneo\Documents\Visual Studio 2010\Projects\FullScreen\FullScreen\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+C:\Users\suneo\Documents\Visual Studio 2010\Projects\FullScreen\FullScreen\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\suneo\Documents\Visual Studio 2010\Projects\FullScreen\FullScreen\obj\x86\Release\FullScreen.csproj.ResolveComReference.cache
+C:\Users\suneo\Documents\Visual Studio 2010\Projects\FullScreen\FullScreen\obj\x86\Release\FullScreen.Form1.resources
+C:\Users\suneo\Documents\Visual Studio 2010\Projects\FullScreen\FullScreen\obj\x86\Release\FullScreen.Properties.Resources.resources
+C:\Users\suneo\Documents\Visual Studio 2010\Projects\FullScreen\FullScreen\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\suneo\Documents\Visual Studio 2010\Projects\FullScreen\FullScreen\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\suneo\Documents\Visual Studio 2010\Projects\FullScreen\FullScreen\obj\x86\Release\FullScreen.exe
+C:\Users\suneo\Documents\Visual Studio 2010\Projects\FullScreen\FullScreen\obj\x86\Release\FullScreen.pdb
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Release\Interop.ShockwaveFlashObjects.dll
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Release\AxInterop.ShockwaveFlashObjects.dll
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Release\FullScreen.csproj.ResolveComReference.cache
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Release\FullScreen.exe
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Release\FullScreen.pdb
+E:\GitHub\FullScreen\FullScreen\FullScreen\bin\Release\FullScreen.exe
+E:\GitHub\FullScreen\FullScreen\FullScreen\bin\Release\FullScreen.pdb
+E:\GitHub\FullScreen\FullScreen\FullScreen\bin\Release\Interop.ShockwaveFlashObjects.dll
+E:\GitHub\FullScreen\FullScreen\FullScreen\bin\Release\AxInterop.ShockwaveFlashObjects.dll
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Release\ResolveAssemblyReference.cache
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Release\FullScreen.Form1.resources
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Release\FullScreen.Properties.Resources.resources
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Release\GenerateResource.read.1.tlog
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Release\GenerateResource.write.1.tlog

@@ -1,0 +1,36 @@
+C:\Users\suneo\AppData\Local\Temporary Projects\FullScreen\bin\Debug\FullScreen.exe
+C:\Users\suneo\AppData\Local\Temporary Projects\FullScreen\bin\Debug\FullScreen.pdb
+C:\Users\suneo\AppData\Local\Temporary Projects\FullScreen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suneo\AppData\Local\Temporary Projects\FullScreen\obj\x86\Debug\FullScreen.Properties.Resources.resources
+C:\Users\suneo\AppData\Local\Temporary Projects\FullScreen\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\suneo\AppData\Local\Temporary Projects\FullScreen\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\suneo\AppData\Local\Temporary Projects\FullScreen\obj\x86\Debug\FullScreen.exe
+C:\Users\suneo\AppData\Local\Temporary Projects\FullScreen\obj\x86\Debug\FullScreen.pdb
+C:\Users\suneo\documents\visual studio 2010\Projects\FullScreen\FullScreen\obj\x86\Debug\FullScreen.exe
+C:\Users\suneo\documents\visual studio 2010\Projects\FullScreen\FullScreen\obj\x86\Debug\FullScreen.pdb
+C:\Users\suneo\documents\visual studio 2010\Projects\FullScreen\FullScreen\bin\Debug\FullScreen.exe
+C:\Users\suneo\documents\visual studio 2010\Projects\FullScreen\FullScreen\bin\Debug\FullScreen.pdb
+C:\Users\suneo\documents\visual studio 2010\Projects\FullScreen\FullScreen\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\suneo\documents\visual studio 2010\Projects\FullScreen\FullScreen\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\suneo\documents\visual studio 2010\Projects\FullScreen\FullScreen\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\suneo\documents\visual studio 2010\Projects\FullScreen\FullScreen\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\suneo\documents\visual studio 2010\Projects\FullScreen\FullScreen\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\suneo\documents\visual studio 2010\Projects\FullScreen\FullScreen\obj\x86\Debug\FullScreen.csproj.ResolveComReference.cache
+C:\Users\suneo\documents\visual studio 2010\Projects\FullScreen\FullScreen\obj\x86\Debug\FullScreen.Form1.resources
+C:\Users\suneo\documents\visual studio 2010\Projects\FullScreen\FullScreen\obj\x86\Debug\FullScreen.Properties.Resources.resources
+C:\Users\suneo\documents\visual studio 2010\Projects\FullScreen\FullScreen\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\suneo\documents\visual studio 2010\Projects\FullScreen\FullScreen\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\GitHub\FullScreen\FullScreen\FullScreen\bin\Debug\FullScreen.exe
+E:\GitHub\FullScreen\FullScreen\FullScreen\bin\Debug\FullScreen.pdb
+E:\GitHub\FullScreen\FullScreen\FullScreen\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\GitHub\FullScreen\FullScreen\FullScreen\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Debug\FullScreen.csproj.ResolveComReference.cache
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Debug\FullScreen.Form1.resources
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Debug\FullScreen.Properties.Resources.resources
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Debug\FullScreen.exe
+E:\GitHub\FullScreen\FullScreen\FullScreen\obj\x86\Debug\FullScreen.pdb
